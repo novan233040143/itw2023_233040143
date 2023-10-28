@@ -54,11 +54,15 @@ body {
 .hero {
     height: 380px;
     background-image: url(img/prabowo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .hero2 {
     height: 380px;
     background-image: url(img/prabowo-gibran.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .deskripsi {
